@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/1d1e7f75-a042-4413-aeda-5eaaf2f24278" width="500" autoplay loop muted playsinline>
+    Your browser does not support the video tag.
+  </video>
+</p>
 
-<!--
-**artagashiii/artagashiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Arta Gashi | Computer Engineering Student</b>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>FIEK, University of Prishtina</i>
+</p>
