@@ -1,9 +1,3 @@
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/7fd207b5-e084-4793-97e0-068ec5864f4a" width="320" autoplay loop muted playsinline style="border-radius: 16px;">
-    Your browser does not support the video tag.
-  </video>
-</p>
-
-<p align="center">
-  <b>Arta Gashi | Computer Engineering Student</b>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4287f5&center=true&vCenter=true&width=600&height=50&lines=Arta+Gashi;Computer+Engineering+Student" alt="Typing Animation" />
+</div>
